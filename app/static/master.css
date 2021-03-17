@@ -1,6 +1,14 @@
 body {
 	margin: 0;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
-header, section {
+header {
+    padding: 15px;
+    background-color: grey;
+}
+header h1 {
+    color: white;
+}
+section {
     padding: 15px;
 }
